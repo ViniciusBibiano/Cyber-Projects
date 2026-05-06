@@ -1,0 +1,29 @@
+# 🌐 MAC Flooding Attack & Mitigation
+
+## 📌 Descrição
+Simulação de ataque de MAC Flooding em ambiente de rede de camada 2, com implementação de defesa utilizando Port Security.
+
+## 🎯 Objetivo
+Demonstrar o impacto do ataque e validar mecanismos de mitigação.
+
+## 🛠️ Ferramentas
+- Kali Linux
+- GNS3
+- macof
+
+## ⚡ Ataque realizado
+- Execução de MAC Flooding
+- Sobrecarga da tabela CAM do switch
+
+## 🛡️ Defesa implementada
+- Port Security
+- Limitação de MAC por porta
+- Bloqueio automático da interface
+
+## 📊 Resultados
+- Degradação da rede durante ataque
+- Bloqueio eficaz após mitigação
+
+## 🧠 Aprendizados
+- Importância da segurança em camada 2
+- Monitoramento e resposta a incidentes
