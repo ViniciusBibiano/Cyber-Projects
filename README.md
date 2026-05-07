@@ -3,6 +3,7 @@
 🔐 Cybersecurity | Blue Team | SOC Analyst (em formação)
 
 Sou estudante de Segurança da Informação com foco em atuação em SOC (Security Operations Center), desenvolvendo habilidades práticas em análise de incidentes, redes e identificação de vulnerabilidades.
+![Uploading ChatGPT Image 24 de abr. de 2026, 20_42_42.png…]()
 
 ---
 
