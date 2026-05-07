@@ -1,4 +1,4 @@
-<img width="1254" height="1254" alt="ChatGPT Image 24 de abr  de 2026, 20_42_42" src="https://github.com/user-attachments/assets/c0a6181c-719e-4a79-b85e-c7144aa74120" /># 👋 Olá, eu sou o Vinicius Augusto Bibiano
+👋 Olá, eu sou o Vinicius Augusto Bibiano
 
 🔐 Cybersecurity | Blue Team | SOC Analyst (em formação)
 
