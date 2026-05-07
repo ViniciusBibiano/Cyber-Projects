@@ -1,50 +1,46 @@
-👋 Olá, eu sou o Vinicius Augusto Bibiano
+# Olá, eu sou Vinicius Bibiano 👋
 
-🔐 Cybersecurity | Blue Team | SOC Analyst (em formação)
+🔐 Aprendiz SOC | Blue Team | Cybersecurity
 
-Sou estudante de Segurança da Informação com foco em atuação em SOC (Security Operations Center), desenvolvendo habilidades práticas em análise de incidentes, redes e identificação de vulnerabilidades.
+Atualmente atuando na área de Segurança da Informação e estudando:
 
----
-
-## 🧠 Sobre mim
-
-- 🎯 Foco em: Cybersecurity, SOC, Blue Team
-- 📚 Estudando: Redes, Linux, SIEM, análise de logs
-- 💻 Experiência prática com laboratórios de Pentest e segurança
-- 🚀 Buscando evolução em detecção e resposta a incidentes
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+- Linux
+- Redes
+- SIEM
+- Python
+- Hardening
+- Análise de Logs
+- Segurança Ofensiva e Defensiva
 
 ---
 
-## 📂 Projetos em destaque
+## 🚀 Projetos em Destaque
 
-### 🔐 WordPress & FTP Pentest Lab
-Teste de intrusão com exploração de vulnerabilidades em WordPress e FTP, incluindo brute force e execução remota.
-➡️ [Ver projeto](https://github.com/SEUUSER/wordpress-ftp-pentest-lab)
+### 🔹 WordPress Security Lab
+Laboratório de segurança focado em WordPress, hardening e análise de vulnerabilidades.
+
+### 🔹 Phishing Awareness Campaign
+Projeto educacional sobre conscientização contra phishing.
+
+### 🔹 GNS3 Network Lab
+Laboratórios de redes utilizando GNS3 para estudos de infraestrutura e segurança.
+
+### 🔹 Linux Hardening
+Aplicação de práticas de segurança e configuração segura em Linux.
 
 ---
 
-### 🧪 Web Machine Pentest Lab
-Simulação completa de ataque com exploração de sistema web e escalada de privilégios até root.
-➡️ [Ver projeto](https://github.com/SEUUSER/web-machine-pentest-lab)
+## 📚 Atualmente estudando
 
----
-
-### 🌐 MAC Flooding Attack & Mitigation
-Ataque em camada 2 com MAC Flooding e implementação de defesa com Port Security.
-➡️ [Ver projeto](https://github.com/SEUUSER/mac-flooding-detection-and-mitigation)
+- ISO 27001
+- SOC Operations
+- Cybersecurity
+- Redes
+- Python para Segurança
 
 ---
 
 ## 📫 Contato
 
-- 💼 LinkedIn: https://www.linkedin.com/in/vinicius-augusto-bibiano/
-
+LinkedIn:
+https://www.linkedin.com/in/vinicius-augusto-bibiano/
