@@ -1,79 +1,35 @@
-# 🌐 MAC Flooding Detection Lab
-
-Laboratório prático focado em análise e detecção
-de ataques MAC Flooding em ambiente controlado.
+# 📸 Evidências do Laboratório
 
 ---
 
-# 🎯 Objetivo
+## 🌐 Topologia do ambiente
 
-Demonstrar o funcionamento do ataque MAC Flooding,
-seus impactos em switches e possíveis mecanismos
-de detecção e mitigação.
+Estrutura da rede utilizada durante o laboratório.
 
----
-
-# 🛠️ Ferramentas utilizadas
-
-- Kali Linux
-- macof
-- Wireshark
-- Linux
-- VirtualBox
+<img width="800" src="./images/topologia-lab.png">
 
 ---
 
-# 🧪 Ambiente de laboratório
+## ⚔️ Execução do ataque MAC Flooding
 
-O ambiente foi desenvolvido em máquinas virtuais
-para simulação controlada de tráfego e análise
-de comportamento da rede.
+Execução do ataque utilizando a ferramenta `macof`
+em ambiente controlado.
 
----
-
-# 📡 Conceitos abordados
-
-- MAC Address Table (CAM)
-- Flooding
-- Switch Spoofing
-- Análise de tráfego
-- Segurança de redes
-- Detecção de anomalias
+<img width="900" src="./images/ataque-macof-executado.png">
 
 ---
 
-# 📸 Evidências
+## 💻 Comando utilizado
 
-## Ambiente de laboratório
+Ferramenta utilizada para geração massiva de endereços MAC.
 
-![Lab](images/lab.png)
-
----
-
-## Captura de tráfego
-
-![Wireshark](images/wireshark.png)
+<img width="700" src="./images/comando-macof.jpeg">
 
 ---
 
-# 🛡️ Mitigações estudadas
+## 🛡️ Mitigação com Port Security
 
-- Port Security
-- Limitação de MAC addresses
-- Monitoramento de tráfego
-- Segmentação de rede
+Aplicação de mecanismos de mitigação utilizando
+Port Security em switch Cisco.
 
----
-
-# 📚 Aprendizados
-
-Durante o laboratório foi possível compreender
-como ataques de camada 2 podem impactar
-a disponibilidade e segurança da rede.
-
----
-
-# 👥 Créditos
-
-Projeto desenvolvido em conjunto com Geovanni Andrade
-durante estudos práticos e laboratoriais em Cybersecurity.
+<img width="700" src="./images/port-security-mitigacao.png">
