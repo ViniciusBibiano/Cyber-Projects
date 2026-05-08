@@ -32,4 +32,4 @@ Ferramenta utilizada para geração massiva de endereços MAC.
 Aplicação de mecanismos de mitigação utilizando
 Port Security em switch Cisco.
 
-<img width="700" src="./images/mitigacao.png">
+<img width="700" src="./images/mitigação.png">
