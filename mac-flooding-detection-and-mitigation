@@ -1,29 +1,79 @@
-# 🌐 MAC Flooding Attack & Mitigation
+# 🌐 MAC Flooding Detection Lab
 
-## 📌 Descrição
-Simulação de ataque de MAC Flooding em ambiente de rede de camada 2, com implementação de defesa utilizando Port Security.
+Laboratório prático focado em análise e detecção
+de ataques MAC Flooding em ambiente controlado.
 
-## 🎯 Objetivo
-Demonstrar o impacto do ataque e validar mecanismos de mitigação.
+---
 
-## 🛠️ Ferramentas
+# 🎯 Objetivo
+
+Demonstrar o funcionamento do ataque MAC Flooding,
+seus impactos em switches e possíveis mecanismos
+de detecção e mitigação.
+
+---
+
+# 🛠️ Ferramentas utilizadas
+
 - Kali Linux
-- GNS3
 - macof
+- Wireshark
+- Linux
+- VirtualBox
 
-## ⚡ Ataque realizado
-- Execução de MAC Flooding
-- Sobrecarga da tabela CAM do switch
+---
 
-## 🛡️ Defesa implementada
+# 🧪 Ambiente de laboratório
+
+O ambiente foi desenvolvido em máquinas virtuais
+para simulação controlada de tráfego e análise
+de comportamento da rede.
+
+---
+
+# 📡 Conceitos abordados
+
+- MAC Address Table (CAM)
+- Flooding
+- Switch Spoofing
+- Análise de tráfego
+- Segurança de redes
+- Detecção de anomalias
+
+---
+
+# 📸 Evidências
+
+## Ambiente de laboratório
+
+![Lab](images/lab.png)
+
+---
+
+## Captura de tráfego
+
+![Wireshark](images/wireshark.png)
+
+---
+
+# 🛡️ Mitigações estudadas
+
 - Port Security
-- Limitação de MAC por porta
-- Bloqueio automático da interface
+- Limitação de MAC addresses
+- Monitoramento de tráfego
+- Segmentação de rede
 
-## 📊 Resultados
-- Degradação da rede durante ataque
-- Bloqueio eficaz após mitigação
+---
 
-## 🧠 Aprendizados
-- Importância da segurança em camada 2
-- Monitoramento e resposta a incidentes
+# 📚 Aprendizados
+
+Durante o laboratório foi possível compreender
+como ataques de camada 2 podem impactar
+a disponibilidade e segurança da rede.
+
+---
+
+# 👥 Créditos
+
+Projeto desenvolvido em conjunto com Geovanni Andrade
+durante estudos práticos e laboratoriais em Cybersecurity.
