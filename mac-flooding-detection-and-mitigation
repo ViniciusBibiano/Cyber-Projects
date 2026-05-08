@@ -6,7 +6,7 @@
 
 Estrutura da rede utilizada durante o laboratório.
 
-<img width="800" src="./images/topologia-lab.png">
+<img width="800" src="./images/topologia-mac.png">
 
 ---
 
@@ -15,7 +15,7 @@ Estrutura da rede utilizada durante o laboratório.
 Execução do ataque utilizando a ferramenta `macof`
 em ambiente controlado.
 
-<img width="900" src="./images/ataque-macof-executado.png">
+<img width="900" src="./images/ataque-executado.png">
 
 ---
 
@@ -23,7 +23,7 @@ em ambiente controlado.
 
 Ferramenta utilizada para geração massiva de endereços MAC.
 
-<img width="700" src="./images/comando-macof.jpeg">
+<img width="700" src="./images/ferramenta-comando.jpeg">
 
 ---
 
@@ -32,4 +32,4 @@ Ferramenta utilizada para geração massiva de endereços MAC.
 Aplicação de mecanismos de mitigação utilizando
 Port Security em switch Cisco.
 
-<img width="700" src="./images/port-security-mitigacao.png">
+<img width="700" src="./images/mitigacao.png">
