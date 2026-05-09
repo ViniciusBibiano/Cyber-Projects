@@ -1,3 +1,5 @@
+![banner](images/banner.png)
+
 # Olá, eu sou Vinicius Bibiano 👋
 
 🔐 Aprendiz SOC | Blue Team | Cybersecurity
